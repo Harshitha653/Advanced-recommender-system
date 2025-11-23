@@ -15,12 +15,6 @@ The **Advanced Recommender System** is a comprehensive platform designed to stre
 
 ---
 
-| **Source Code** | **Website** |
-|:-----------------|:------------|
-| <a href="https://github.com/deepmancer/advanced-recommender-system" target="_blank">github.com/deepmancer/advanced-recommender-system</a> | <a href="https://deepmancer.github.io/advanced-recommender-system/" target="_blank">deepmancer.github.io/advanced-recommender-system</a> |
-
----
-
 ## ✨ Key Features:
 - End-to-end pipeline for academic document retrieval and recommendation.
 - Integration of machine learning and deep learning models, clustering techniques, and advanced search algorithms.
